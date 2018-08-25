@@ -2,7 +2,7 @@
 
 Este es un demo para la clase del sabado
 
-# sta es una seccion
+# esta es una seccion
 
 ## Subsección
 
