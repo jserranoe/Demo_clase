@@ -2,10 +2,10 @@
 
 Este es un demo para la clase del sabado
 
-#Esta es una seccion
+# sta es una seccion
 
-##Subsección
+## Subsección
 
-###sub-subsección
+### sub-subsección
 
 esta palabra es en **negrilla**
